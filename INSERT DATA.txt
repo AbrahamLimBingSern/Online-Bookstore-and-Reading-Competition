@@ -1,0 +1,81 @@
+INSERT INTO Author
+VALUES
+('A001','Yew Kwang Hui','No. 567, Jalan Putera, 46200 Petaling Jaya, Selangor'),
+('A002','Samsudin Abdullah bin Fakri','Lot 4892, Taman Desa, 80250 Johor Bharu, Johor'),
+('A003','Chetan A/L Bangla','No. 567, Jalan Raja Chulan, 50000 Kuala Lumpur, Kuala Lumpur'),
+('A004','Grace Wong Jie Hui','123-2A, Jalan Enstek 3/8, 71800 Nilai, Negeri Sembilan'),
+('A005','Siti Khadijah binti Kamal','Pt 2464, Taman Guchil Jaya, 18000 Kuala Krai, Kelantan'),
+('A006','Amrita A/P Pritia ','Lot 2953, Jalan Permai, 14020 Bukit Mertajam, Penang'),
+('A007','Uthaya A/L Sankar','No. 382, Taman Desa Intan, 11500 Ayer Itam, Pulau Pinang'),
+('A008','Lim Kit Ching','Pt. 3295, Jalan Maarof 2/3, 85000, Segamat, Johor'),
+('A009','Sarah Rosmah binti Abdullah','Lot. 253-7A, Jalan Desa Mawar, 11500 Ayer Itam, Pulau Pinang'),
+('A010','Ali Abdulah bin Ahmad','No. 46, Jalan Puteri, 10150 George Town, Pulau Pinang');
+
+INSERT INTO Publisher
+VALUES
+('P0001','Oxferd Fajar Sdn Bhd','999, Jalan Pemaju, 40150 Shah Alam, Selangor','03-5629400'),
+('P0002','GoldFish Book Sdn Bhd','No. 360, Lintang Macallum, 10300 George Town, Pulau Pinang','09-9994424'),
+('P0003','Hup Seng Book Sdn Bhd','5529, Jalan Marif 2/5, 59000 Bangsar, Selangor','01-4248892'),
+('P0004','Kanying Publication Sdn Bhd','35, Jalan Industri Kidamai,43000 Kajang, Selangor','04-2423949'),
+('P0005','Navinden Pubication Sdn Bhd','73, Jalan Maarof, Bangsar, 59000 Kuala Lumpur, Kuala Lumpur','03-2235490'),
+('P0006','Rosmah Book Sdn Bhd','No. 35, Block C5, Jalan Parameswara, 47301 Petaling Jaya, Selangor','06-8795292'),
+('P0007','Pernebit UM','C4-26, Bukit Bakar Industrial Area, 52100 Kepong, Kuala Lumpur','08-4837897'),
+('P0008','Pelangor Pubishing Group','Lot 22, Taman Perindustrian Ayer, 80250, Johor Bharu, Johor','07-0217474'),
+('P0009','Sental Press Sdn Bhd','B-4-C, Jalan Kenari 5, Alam Damai, 56000 Cheras, Kuala Lumpur','03-4258393'),
+('P0010','Ali Publication Sdn Bhd','58, Jalan Bukit 24/5, Seksyen 51 Petaling Jaya, 46200 Petaling Jaya, Selangor','02-2423490');
+
+INSERT INTO Customer
+VALUES
+('armiraaaa47@gmail.com','Nur Armira binti Syed Fairuz','014-1234122','Lot 74, Jalan Universiti, 46200 Petaling Jaya, Selangor'),
+('hajiftd8877@gmail.com','Haji Fathuddin bin Idham','011-74219300','No. 92, Jalan Burma, 10797 George Town, Pulau Pinang'),
+('slmisthebest32@gmail.com','Siew Loong Mon','019-8717818','61, Jalan Imbi, Imbi, 57070 Kuala Lumpur, Kuala Lumpur'),
+('preetaking007@gmail.com','Preeta A/L Selvaraju','018-2457636','58, Jalan Jubli Perak Seksyen, 40172 Shah Alam, Selangor'),
+('jessietjh20@gmail.com','Jessie Tan Jing Hui','016-4145675','4, Jalan Industri USJ, Taman Perindustrian Usj 1, 47631 Subang Jaya, Selangor'),
+('chendp007@gmail.com','Chen Dong Pin','012-9669098','No. 12 & 14A, Jalan Bentara 1, Taman Iskandar, 80050 Johor Bahru, Johor'),
+('syasya71@gmail.com','Syafina binti Fadillah','014-7739172','No. 36, Jalan 4, Laman Keramat, 21055 Bukit Besi, Terengganu'),
+('shoba99@gmail.com','Shoba Sundram A/P Pragash Ammasee','017-3217541','No. 067, Jalan 1/12, Taman Jordan, 31900 Kampar, Perak'),
+('zmchen11@gmail.com','Chen Zhi Ming','011-38380187','7, Jalan Medan Midah, Taman Midah, 59513 Kuala Lumpur,Kuala Lumpur'),
+('nazeem666@gmail.com','Nazeem Akmal bin Nik Zamani','010-8461063','No. 152, Jalan Lembah, Taman Tasek, 80200, Johor Bahru, Johor'),
+('loh888@gmail.com','Loh Jing Yi','011-4242421','61 & 61-A, Jalan Harimau Tarum, Taman Century, 80250 Johor Bahru, Johor'),
+('jycute73@gmail.com','Wong Jin Ying','016-5991059','35, Jalan Perpaduan, Desa Lawan Kuda, 31600 Gopeng, Perak');
+
+INSERT INTO OnlineBookstore
+VALUES
+('BS001','Lot 358, Jalan Perpaduan, 40172 Shah Alam, Selangor','03-2312471'),
+('BS002','No. 3425, Jalan Jubli Perak, 31600 Gopeng, Perak','03-4743647'),
+('BS003','Lot 14, Jalan Permai, 85771 Skudai, Johor','03-9034892'),
+('BS004','2A-5-C, Jalan Wisma, 30300 Ipoh, Perak','09-3489124'),
+('BS005','No. 214, Jalan 5/2E, 47300 Petaling Jaya, Selangor','03-7467846'),
+('BS006','No. 49, Jalan Kecil, 59100 Bangsa Utama, Kuala Lumpur','06-9214714'),
+('BS007','No. 2, Jalan Bentara 4, 59513 Kuala Lumpur, Kuala Lumpur','08-9827481'),
+('BS008','34-D, Jalan Bukit Besi, 80250 Johor Bharu, Johor','01-2421444'),
+('BS009','37, Taman Desa, 10797 George Town, Pulau Pinang','02-2342342'),
+('BS010','6A-5, Jalan Industri 2/4, 47631 Subang Jaya, Selangor','04-3423424');
+
+INSERT INTO Participant
+VALUES
+('PT001','Kelvin Liew Wei Wen','013-2305966','No.112, Jalan Merah, Kampung Gajah 31000, Perak','kelvin188@gmail.com','Malaysian'),
+('PT002','Vijaya A/P Rajeswaran','016-5121222','80, Jalan 2/35, USJ 42R, 85771 Skudai, Johor','vijaya86@gmail.com','Malaysian'),
+('PT003','Leong Zi Shan','015-4881327','No. 75, Jalan Wisma Putra 31T, PJS43, 50160 Titiwangsa, Kuala Lumpur','leong1327@gmail.com','Malaysian'),
+('PT004','Ahmad Muqri Bin Zahir','013-8156469','No. 31, Jalan Bukit Bintang 96Y, PJU3, 34163 Gua Tempurung, Perak','ahmadmm@gmail.com','Malaysian'),
+('PT005','Syed Saddiq Bin Muhammad','018-4476730','8P-10, Jalan 4/84D, Bandar Pinang, 72229 Sungai Gadut, Negeri Sembilan','syedsd6868@gmail.com','Malaysian'),
+('PT006','Mohamad Sanjaya Bin Kamal','011-45539966','No. 299, Jalan Dato Onn Jaafar, 30300 Ipoh, Perak','powersanjaya01@gmail.com','Malaysian'),
+('PT007','Nurul Farah Binti Abdulah Syabir','013-4330203','No. 168, Jalan Halaman Meriah, Taman Aman, 31800 Tanjong Tualang, Perak','farahhh53@gmail.com','Malaysian'),
+('PT008','Yogeshwaran A/L Kumar','010-8899283','No. 3-10, Jalan SS2/67, SS2, 47300 Petaling Jaya, Selangor','yogesh31@gmail.com','Malaysian'),
+('PT009','Chen Dong Pin','012-9669098','No. 12 & 14A, Jalan Bentara 1, Taman Iskandar, 80050 Johor Bahru, Johor','chendp007@gmail.com','Foreigner'),
+('PT010','Leanne Lee Yan Ting','011-67677897','No. D88, Jalan Besar, 31900 Kampar, Perak','leanne86@gmail.com','Malaysian'),
+('PT011','Syafina binti Fadillah','014-773 9172','No. 36, Jalan 4, Laman Keramat, 21055 Bukit Besi, Terengganu','syasya71@gmail.com','Malaysian'),
+('PT012','Carla W. Jamerson','011-12337474','No. 28-1 Jalan Bangsar Utama 1, 59100 Bangsar Utama, Kuala Lumpur','carlacute111@gmail.com','Foreigner');
+
+INSERT INTO Competition
+VALUES
+('C0001','News Reader','2022-09-25'),
+('C0002','Fairy Story Telling','2022-10-23'),
+('C0003','Poetry Reading','2022-10-24'),
+('C0004','Spanish Challenge Reading Competition','2022-11-15'),
+('C0005','Japanese Challenge Reading Competition','2022-11-16'),
+('C0006','German Challenge Reading Competition','2022-11-17'),
+('C0007','Chinese Challenge Reading Competition','2022-11-18'),
+('C0008','Arabic Challenge Reading Competition','2022-12-20'),
+('C0009','Cantonese Challenge Reading Competition','2022-12-21'),
+('C0010','English Challenge Reading Competition','2022-12-22');
