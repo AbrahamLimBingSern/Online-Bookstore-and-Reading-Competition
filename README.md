@@ -1,4 +1,4 @@
-# Online-Bookstore-and-Reading-Competition Database System
+# Online Bookstore and Reading Competition Database System
 
 This project is designed to manage the operations of an online bookstore and a reading competition. The system handles information related to books, orders, customers, competitions, participants, inventory, and employees.
 
